@@ -125,7 +125,7 @@ Section 2 - Developers
 30. SP
 31. RR
 32. GSS
-33. SS
+33. [Shabnam Shaik](https://github.com/ShabnamShaikk)
 34. DS
 35. AS
 36. ASS
